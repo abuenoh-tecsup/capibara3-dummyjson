@@ -28,27 +28,27 @@ function Hero() {
           <div className="carousel-item active" data-bs-interval="10000">
             <img src="https://cdn.pixabay.com/photo/2017/09/07/13/42/cheese-2725235_640.jpg" className="d-block w-100" alt="..." />
             <div className="carousel-caption d-none d-md-block">
-              <h5>Tu DummyAPI</h5>
-              <p>
-                Some representative placeholder content for the first slide.
+              <h5 className="text-white">Tu DummyAPI</h5>
+              <p className="text-white">
+                Tu API de tienda de objetos por defecto
               </p>
             </div>
           </div>
           <div className="carousel-item" data-bs-interval="2000">
             <img src="https://www.shutterstock.com/image-photo/kuala-lumpur-malaysia-december-26-260nw-2477795053.jpg" className="d-block w-100" alt="..." />
             <div className="carousel-caption d-none d-md-block">
-              <h5>Second slide label</h5>
-              <p>
-                Some representative placeholder content for the second slide.
+              <h5 className="text-white">Gran variedad de objetos</h5>
+              <p className="text-white">
+                Observa los diferentes items que ofrece
               </p>
             </div>
           </div>
           <div className="carousel-item">
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXpnMQ-aQyxLGD68dIAg-r2rtfsPAfUwjl2Q&s" className="d-block w-100" alt="..." />
             <div className="carousel-caption d-none d-md-block">
-              <h5>Third slide label</h5>
-              <p>
-                Some representative placeholder content for the third slide.
+              <h5 className="text-white">Explora entre diferentes productos</h5>
+              <p className="text-white">
+                Revisa sus diferentes características
               </p>
             </div>
           </div>
